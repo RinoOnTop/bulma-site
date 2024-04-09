@@ -1,2 +1,3 @@
 # bulma-site
-A repo to test bulma and mess with it
+
+### I dont know honestly whats that repo i am just messing around
